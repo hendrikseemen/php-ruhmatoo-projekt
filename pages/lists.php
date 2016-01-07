@@ -86,3 +86,5 @@ foreach($array_of_user_lists as $list){
 
 </div>
 </div>
+
+<?php require_once("../footer.php"); ?>
